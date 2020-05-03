@@ -29,4 +29,10 @@ public class MavenTest {
 		
 		System.out.println("Fourth Test Case");
 	}
+	
+	@Test
+	public void testCase5() {
+		
+		System.out.println("Fifth Test Case");
+	}
 }
